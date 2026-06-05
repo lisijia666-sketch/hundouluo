@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Computer Use Fix"
+  short_description: "Diagnose and restore missing Codex Computer Use."
+  default_prompt: "Use $codex-computer-use-fix to diagnose why Codex Computer Use is missing or not working."
+
+policy:
+  allow_implicit_invocation: true
